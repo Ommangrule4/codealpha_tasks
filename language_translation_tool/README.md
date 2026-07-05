@@ -54,10 +54,5 @@ language_translation_tool/
 └── README.md           # This file
 ```
 
-## 📤 Submission Checklist (for CodeAlpha)
-- [ ] Code uploaded to GitHub repo named `codealpha_tasks` (all tasks together, in their own folders)
-- [ ] Repo link added to the submission form
-- [ ] (Optional) LinkedIn post explaining the project, tagging @CodeAlpha and #CodeAlpha
-
 ## 🙋 Author
 Built as part of the CodeAlpha Artificial Intelligence Internship (June Batch).
